@@ -6,7 +6,7 @@
 
 ## 🛠 Технології та стек
 * **База даних:** PostgreSQL
-* **Інструменти:** Python, Jupyter Notebook, Pandas, SQLAlchemy, `pgserver`
+* **Інструменти:** Python, Google Colab, Pandas, SQLAlchemy
 * **Об'єкти БД:** Typed Tables with Constraints, CTE-chain, Recursive CTE, Materialized Views, Unique Indexes, B-tree Indexes.
 
 ---
